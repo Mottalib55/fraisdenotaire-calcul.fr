@@ -1,0 +1,30 @@
+# fraisdenotaire-calcul.fr
+
+> Calculateur gratuit de frais de notaire et droits de succession en France
+
+## Pages principales
+
+- [Calculateur de frais de notaire et succession](https://fraisdenotaire-calcul.fr/)
+- [Guide complet des droits de succession](https://fraisdenotaire-calcul.fr/guide-succession/)
+- [FAQ — Questions fréquentes](https://fraisdenotaire-calcul.fr/faq/)
+
+## Informations clés
+
+### Frais de notaire immobilier
+- Bien ancien : environ 7-8 % du prix (droits de mutation 5,81 %, émoluments, débours, sécurité immobilière)
+- Bien neuf : environ 2-3 % du prix (droits de mutation réduits à 0,715 %)
+- Émoluments du notaire : barème dégressif de 3,870 % à 0,799 %
+- Contribution sécurité immobilière : 0,10 % (minimum 15 €)
+- Débours : environ 1 200 €
+
+### Droits de succession — Abattements
+- Conjoint / Pacsé : exonéré totalement
+- Enfant : 100 000 € d'abattement, barème progressif 5 % à 45 %
+- Frère / Sœur : 15 932 €, taux 35 % puis 45 %
+- Neveu / Nièce : 7 967 €, taux unique 55 %
+- Autre : 1 594 €, taux unique 60 %
+- Handicap : abattement supplémentaire 159 325 €
+
+### Sources
+- service-public.fr
+- legifrance.gouv.fr
