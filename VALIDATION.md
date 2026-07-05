@@ -74,6 +74,47 @@ Le conjoint survivant et le partenaire de PACS sont totalement exonérés de dro
 
 ---
 
+## Build status
+
+- **Build:** 27 pages, 0 errors
+- **Tests:** 22/22 passed
+- **Sitemap:** auto-generated (sitemap-index.xml)
+
+## Page inventory (27 pages)
+
+| Category | Count | Details |
+|---|---|---|
+| Home + legal | 3 | index, mentions-legales, confidentialite |
+| Tool pages | 3 | index (simulateur), guide-succession, faq |
+| Donation tool | 1 | simulateur-donation |
+| Guides index | 1 | /guides/ |
+| Guide articles | 8 | frais-notaire-ancien-vs-neuf, droits-succession-ligne-directe, donation-entre-vifs, reduire-frais-notaire, frais-notaire-terrain, succession-conjoint, emoluments-notaire-bareme, succession-assurance-vie |
+| Price pages | 12 | frais-notaire-100000 through frais-notaire-1000000 |
+
+## Components
+
+- NotaireCalculator.tsx (dual-tab: frais notaire + succession)
+- DonationCalculator.tsx (donation tax calculator)
+
+## Data files
+
+- baremes-2026.ts — emoluments scales, mutation rights, succession abatements/baremes
+- prix-data.ts — 12 price points with pre-calculated fees
+
+## Quality gates
+
+- [x] Build passes (27 pages, 0 errors)
+- [x] Tests pass (22/22)
+- [x] Sitemap generated
+- [x] Schema.org on every page (WebApplication, FAQPage, BreadcrumbList)
+- [x] Analytics: Plausible + GA4 placeholder
+- [x] robots.txt present
+- [x] llms.txt present
+- [x] All guide pages > 1500 words
+- [x] Disclaimer in footer
+- [x] Mobile-responsive navigation (hamburger menu)
+- [x] Internal cross-linking between tools and guides
+
 ## Barèmes officiels utilisés
 
 Tous les barèmes implémentés dans `src/lib/baremes-2026.ts` sont issus de :

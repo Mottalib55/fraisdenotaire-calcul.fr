@@ -1,0 +1,9 @@
+{
+  "name": "fraisdenotaire-calcul.fr",
+  "short_name": "fraisdenotaire-calcul",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}
